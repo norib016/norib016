@@ -1,6 +1,4 @@
-Welcome to my GitHub!
-<p align="center">
-![Bhanu's GitHub profile README.md welcome banner image](https://github.com/norib016/norib016/blob/main/tech.gif "Welcome to my GitHub")
+![Bhanu's GitHub profile README.md welcome banner image]<p align="center">(https://github.com/norib016/norib016/blob/main/tech.gif "Welcome to my GitHub")
 </p>
 ## I'm a Data Scientist and Software Developer with a strong analytical background, and 4+ years of experience using Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions.
 ## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges. 
