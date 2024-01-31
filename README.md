@@ -1,6 +1,6 @@
 ![Bhanu's GitHub profile README.md welcome banner image](https://github.com/norib016/norib016/blob/main/study.gif "Welcome to my GitHub")
-## I'm a Data Scientist and Software Developer with a strong analytical background, and 4+ years of experience using Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions.
+## _I'm a Data Scientist and Software Developer with a strong analytical background, and 4+ years of experience using Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions._
 ## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges. 
 ## Python, SQL, GitHub, and AWS but not limited to are a few of my preferred tech stack to learn, explore, practice Machine Learning and web development. 
-
-          Feel free to explore my repositories! 
+## Feel free to explore my repositories!
+          
